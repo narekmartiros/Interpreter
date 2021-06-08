@@ -1,0 +1,13 @@
+tiv x = 5
+x = 7
+tarer s = "Helloman"
+tivr d = 4.5
+tiv m = 9
+tiv l = 8
+l = m
+tpel s
+s = "dfsd"
+tpel s
+tpel l
+tpel 5
+
